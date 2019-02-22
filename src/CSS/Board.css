@@ -1,0 +1,17 @@
+.main3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*justify-content: space-around;*/
+}
+
+
+
+.browse{
+  background-color: red;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 30px;
+}

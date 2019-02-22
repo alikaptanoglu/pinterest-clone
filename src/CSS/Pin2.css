@@ -1,0 +1,30 @@
+.image{
+width: 100%;
+}
+
+.pin{
+  display: inline-block;
+  margin: 0 0 1em;
+  width: 100%;
+  border: 1px solid red;
+  text-align: center;
+  /*position: relative;
+  z-index: 20;*/
+}
+
+
+.button{
+  background-color: green;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  display: none;
+  /*position: relative;
+  z-index: 30;*/
+}
+
+.pin:hover .button {
+  display: inline-block;
+  position: absolute;
+}
