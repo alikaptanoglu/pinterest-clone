@@ -1,3 +1,4 @@
+# A simple Pinterest clone 
 
 This project is a simple pinterest clone created to demonstrate the following:
 
